@@ -9,3 +9,5 @@ _Ứng dụng hỗ trợ nhân viên học về các quy trình nghiệp vụ ph
 - Đếm số lượng người xem
 - Tích hợp nền tảng Stream để hiển thị video
 - Lưu khóa học vào danh sách khóa học của tôi
+- Trắc nghiệm online với nhiều kiểu trắc nghiệm
+- Tài liệu tích hợp với khóa học
